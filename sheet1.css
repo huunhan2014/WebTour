@@ -1,0 +1,245 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	position: relative;
+}
+#menu ul{
+padding: 0;
+width:100%;
+margin-left:80px;
+}
+
+#menu ul li{
+	list-style: none;
+	float: left;
+	position: static;
+}
+
+#menu ul a{
+
+color:#fff;
+display:block;
+font-weight:bold;
+padding:10px 30px;
+background:#000;
+}
+
+#menu ul a:hover{
+background:#555;
+}
+
+#menu{
+	text-align: center;
+	margin: auto;
+	padding: 0px;
+	height: 40px;
+	font-size: 17px;
+	line-height: 39px;
+	background-image: url(gach_men_lat_nen_1.jpg);
+	background-repeat: repeat;
+	
+}
+#menu a{
+	text-decoration:none;
+	color:#FFF;
+}
+#m1{
+	float: left;
+	border: 2px solid #FF3;
+
+}
+#m1:hover{background:#00B95C
+}
+#m2{float:left;	border: 1px solid #FF3;
+	}
+	#m2:hover{background:#00B95C
+}
+#m3{float:left;	border: 1px solid #FF3;
+}
+	#m3:hover{background:#00B95C
+}
+#m4{float:left;	border: 1px solid #FF3;
+	
+	
+	}
+	#m4:hover{background:#00B95C
+}
+#m5{float:left;	border: 1px solid #FF3;
+	}
+
+	#m5:hover{background:#00B95C
+}
+
+#chat{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}
+
+	
+#container{
+	font-family: Arial, san-serif;
+	font-size: 12px;
+	width: 91%;
+	text-align: center;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	background-color:#F28644
+}
+
+
+#sp{
+	margin-top: 10px;
+	height: 30;
+	text-height: max-size;
+	font-size: 18px;
+	color: #FFF;
+}
+#httt{
+	width: 30%;
+	float: left;
+	height: 30;
+	background-color: #F00;
+}
+
+#tiemkiem{
+	text-align: left;
+	height: 30;
+background-color: #F00;
+float: left;
+}
+#search{
+	width:25;
+	text-align:left;
+	background-color:#F00;
+}
+#footer {
+	border: 1px solid #C09;
+	background-color: #30F;
+	background-image: url(footer1.jpg);
+	background-repeat: repeat;
+	color:#4ECBD6;
+	font-size:18px
+	
+	
+}
+#tintuckhac a{
+	color:#FFF;
+	font-size:18px;
+}
+#logo{
+	float:left;
+	
+}
+#anhkhuyenmai{
+	clear:both}
+	#tintuc{
+	height: 30px;
+	line-height: 30px;
+	}
+
+#header {
+	border: 1px solid #00F;
+	height: 100px;
+	background-color: #F6F;
+	background-image: url(banner.jpg);
+	background-position: left top;
+}
+#tintuc{
+	text-align: center;
+	margin: auto;
+	padding: 0px;
+	height: 40px;
+	font-size: 17px;
+	line-height: 39px;
+	color: #FFF;
+	font-style: italic;
+	background-image: url(gach_men_lat_nen_1.jpg);
+	background-repeat: repeat;
+}
+#a1{
+	float: left;
+	border: 1px solid #00F;
+	
+}
+#a1:hover{background:#00B95C
+}
+#a2{float:left;	border: 1px solid #00F;
+	}
+	#a2:hover{background:#00B95C
+}
+#a3{float:left;	border: 1px solid #00F;
+	}
+	#a3:hover{background:#00B95C
+}
+#a4{float:left;	border: 1px solid #00F;
+	
+	
+	}
+	#a4:hover{background:#00B95C
+}
+#a5{float:left;	border: 1px solid #00F;
+	}
+	#a5:hover{background:#00B95C
+}
+#a6{float:left;	border: 1px solid #00F;
+	}
+	#a6:hover{background:#00B95C
+}
+#a7{float:left;	border: 1px solid #00F;
+	}
+	#a7:hover{background:#00B95C
+}
+#hinhtourhot{
+	clear:both}
+
+#hinh{
+	border: 5px none #63C;
+}
+#tintuckhac ul li
+{
+	list-style: none;
+}
+#tintuckhac ul a{
+	text-decoration:none;
+}
+#ttdl
+{width:20%;
+float:left;
+}
+body {
+	background-image: url(body.jpg);
+	background-repeat: repeat;
+
+		
+}
+#cn{width:20%;
+float:left;
+}
+#lh
+{width:20%;
+float:left;
+}
+#kh
+{width:20%;
+float:left;
+}
+#dc{
+	clear:both;
+	font-size:22px;
+	color:#48FF48
+	
+	}
+	
+	#tintuckhac{
+		margin-left:141px;
+		text-align:left
+	}
+#content{
+
+}
+
+
+
